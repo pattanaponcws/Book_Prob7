@@ -21,10 +21,10 @@ int main(){
         }
 
 
-    printf("Total Scaore");
-    printf("Student A:%d",stuA[0]+stuA[1]+stuA[2]+stuA[3]+stuA[4]);
-    printf("Student B:%d",stuB[0]+stuB[1]+stuB[2]+stuB[3]+stuB[4]);
-    prinf("Student C:%d",stuC[0]+stuC[1]+stuC[2]+stuC[3]+stuC[4]);
+    printf("Total Scaore\n");
+    printf("Student A:%d\n",stuA[0]+stuA[1]+stuA[2]+stuA[3]+stuA[4]);
+    printf("Student B:%d\n",stuB[0]+stuB[1]+stuB[2]+stuB[3]+stuB[4]);
+    printf("Student C:%d\n",stuC[0]+stuC[1]+stuC[2]+stuC[3]+stuC[4]);
 
     return 0;
 }
